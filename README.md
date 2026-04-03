@@ -6,6 +6,8 @@ Open-source focused developer building practical software across accessibility, 
 
 मुक्तस्रोताय समर्पितः विकासकः
 
+Useful software. Clear structure. Real-world value.
+
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rudraksha-avatara&style=flat-square&color=0e75b6)
@@ -87,6 +89,14 @@ Telegram moderation bot with anti-spam, captcha, logging, and scalable architect
   <img src="https://github-readme-stats.vercel.app/api?username=rudraksha-avatara&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksha-avatara&layout=compact&hide_border=true" alt="Top languages" />
 </p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraksha-avatara&hide_border=true" alt="GitHub streak" />
+</p>
+
+## Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudraksha-avatara&hide_border=true&area=true)
 
 ## Find Me Here
 
