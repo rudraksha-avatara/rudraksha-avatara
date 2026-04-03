@@ -16,6 +16,10 @@ Useful software. Clear structure. Real-world value.
 
 </div>
 
+```text
+rudraksha-avatara :: building practical tools for the web, accessibility, automation, and open source
+```
+
 ## About Me
 
 - I build tools meant to be useful, maintainable, and deployable
