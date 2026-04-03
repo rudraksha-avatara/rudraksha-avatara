@@ -1,8 +1,18 @@
+<div align="center">
+
 # रुद्राक्ष अवतार
 
 Open-source focused developer building practical software across accessibility, browser tools, web applications, security-aware utilities, and Telegram automation.
 
 मुक्तस्रोताय समर्पितः विकासकः
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=rudraksha-avatara&style=flat-square&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/rudraksha-avatara?style=flat-square)
+![Stars](https://img.shields.io/github/stars/rudraksha-avatara?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
+
+</div>
 
 ## About Me
 
@@ -29,6 +39,13 @@ Open-source focused developer building practical software across accessibility, 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+## Current Focus
+
+- Building useful browser and web tools with low-friction UX
+- Shipping accessibility-oriented frontend utilities
+- Working on Telegram automation and moderation systems
+- Contributing to open source when I can
+
 ## Featured Work
 
 ### [our-a11y](https://github.com/rudraksha-avatara/our-a11y)
@@ -49,6 +66,15 @@ Telegram media index and streaming bot with MongoDB, aiohttp, premium, referral,
 ### [iiuo-telegram-guardian-bot](https://github.com/rudraksha-avatara/iiuo-telegram-guardian-bot)
 Telegram moderation bot with anti-spam, captcha, logging, and scalable architecture.
 
+## Selected Repositories
+
+- [audio-booster](https://github.com/rudraksha-avatara/audio-booster) - Chromium extension for stronger tab audio control
+- [our-a11y](https://github.com/rudraksha-avatara/our-a11y) - embeddable accessibility enhancement library
+- [erp-sec-auditor](https://github.com/rudraksha-avatara/erp-sec-auditor) - ERP login auditing utility for admins
+- [iiuobotz-telegram-bot](https://github.com/rudraksha-avatara/iiuobotz-telegram-bot) - Telegram media index and streaming bot
+- [pgp-key-generator-tool](https://github.com/rudraksha-avatara/pgp-key-generator-tool) - client-side PGP key generation tool
+- [asterisk](https://github.com/rudraksha-avatara/asterisk) - lightweight IMDb redirect utility
+
 ## Working Style
 
 - Practical over flashy
@@ -57,9 +83,10 @@ Telegram moderation bot with anti-spam, captcha, logging, and scalable architect
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudraksha-avatara&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksha-avatara&layout=compact&hide_border=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rudraksha-avatara&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksha-avatara&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
 ## Find Me Here
 
