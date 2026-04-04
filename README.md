@@ -90,12 +90,7 @@ Telegram moderation bot with anti-spam, captcha, logging, and scalable architect
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rudraksha-avatara&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksha-avatara&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraksha-avatara&hide_border=true" alt="GitHub streak" />
+  <img style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=rudraksha-avatara&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Activity
