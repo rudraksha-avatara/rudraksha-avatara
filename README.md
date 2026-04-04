@@ -10,14 +10,14 @@ Useful software. Clear structure. Real-world value.
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=rudraksha-avatara&style=flat-square&color=0e75b6)
-![Followers](https://img.shields.io/github/followers/rudraksha-avatara?style=flat-square)
-![Stars](https://img.shields.io/github/stars/rudraksha-avatara?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=rudraksha-avatar&style=flat-square&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/rudraksha-avatar?style=flat-square)
+![Stars](https://img.shields.io/github/stars/rudraksha-avatar?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)
 
 </div>
 
 ```text
-rudraksha-avatara :: building practical tools for the web, accessibility, automation, and open source
+rudraksha-avatar :: building practical tools for the web, accessibility, automation, and open source
 ```
 
 ## About Me
@@ -54,32 +54,32 @@ rudraksha-avatara :: building practical tools for the web, accessibility, automa
 
 ## Featured Work
 
-### [our-a11y](https://github.com/rudraksha-avatara/our-a11y)
+### [our-a11y](https://github.com/rudraksha-avatar/our-a11y)
 Embeddable accessibility enhancement library for websites, with user controls, safe usability improvements, and optional diagnostics.
 
-### [audio-booster](https://github.com/rudraksha-avatara/audio-booster)
+### [audio-booster](https://github.com/rudraksha-avatar/audio-booster)
 Boost browser tab audio up to 600% with a lightweight Chromium extension powered by the Web Audio API.
 
-### [erp-sec-auditor](https://github.com/rudraksha-avatara/erp-sec-auditor)
+### [erp-sec-auditor](https://github.com/rudraksha-avatar/erp-sec-auditor)
 Security auditing tool for ERP login systems, built for authorized administrative testing.
 
-### [pgp-key-generator-tool](https://github.com/rudraksha-avatara/pgp-key-generator-tool)
+### [pgp-key-generator-tool](https://github.com/rudraksha-avatar/pgp-key-generator-tool)
 Open-source client-side PGP key generator tool.
 
-### [iiuobotz-telegram-bot](https://github.com/rudraksha-avatara/iiuobotz-telegram-bot)
+### [iiuobotz-telegram-bot](https://github.com/rudraksha-avatar/iiuobotz-telegram-bot)
 Telegram media index and streaming bot with MongoDB, aiohttp, premium, referral, and redeem flows.
 
-### [iiuo-telegram-guardian-bot](https://github.com/rudraksha-avatara/iiuo-telegram-guardian-bot)
+### [iiuo-telegram-guardian-bot](https://github.com/rudraksha-avatar/iiuo-telegram-guardian-bot)
 Telegram moderation bot with anti-spam, captcha, logging, and scalable architecture.
 
 ## Selected Repositories
 
-- [audio-booster](https://github.com/rudraksha-avatara/audio-booster) - Chromium extension for stronger tab audio control
-- [our-a11y](https://github.com/rudraksha-avatara/our-a11y) - embeddable accessibility enhancement library
-- [erp-sec-auditor](https://github.com/rudraksha-avatara/erp-sec-auditor) - ERP login auditing utility for admins
-- [iiuobotz-telegram-bot](https://github.com/rudraksha-avatara/iiuobotz-telegram-bot) - Telegram media index and streaming bot
-- [pgp-key-generator-tool](https://github.com/rudraksha-avatara/pgp-key-generator-tool) - client-side PGP key generation tool
-- [asterisk](https://github.com/rudraksha-avatara/asterisk) - lightweight IMDb redirect utility
+- [audio-booster](https://github.com/rudraksha-avatar/audio-booster) - Chromium extension for stronger tab audio control
+- [our-a11y](https://github.com/rudraksha-avatar/our-a11y) - embeddable accessibility enhancement library
+- [erp-sec-auditor](https://github.com/rudraksha-avatar/erp-sec-auditor) - ERP login auditing utility for admins
+- [iiuobotz-telegram-bot](https://github.com/rudraksha-avatar/iiuobotz-telegram-bot) - Telegram media index and streaming bot
+- [pgp-key-generator-tool](https://github.com/rudraksha-avatar/pgp-key-generator-tool) - client-side PGP key generation tool
+- [asterisk](https://github.com/rudraksha-avatar/asterisk) - lightweight IMDb redirect utility
 
 ## Working Style
 
@@ -90,13 +90,13 @@ Telegram moderation bot with anti-spam, captcha, logging, and scalable architect
 ## GitHub Stats
 
 <p>
-  <img style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=rudraksha-avatara&hide_border=true" alt="GitHub streak" />
+  <img style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=rudraksha-avatar&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudraksha-avatara&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rudraksha-avatar&hide_border=true&area=true)
 
 ## Find Me Here
 
-- GitHub: [@rudraksha-avatara](https://github.com/rudraksha-avatara)
+- GitHub: [@rudraksha-avatar](https://github.com/rudraksha-avatar)
